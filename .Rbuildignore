@@ -1,5 +1,6 @@
 ^renv$
 ^renv\.lock$
+^\.history$
 ^\.vscode$
 ^\.editorconfig$
 ^.*\.code-workspace$
@@ -34,6 +35,7 @@
 ^\.github$
 ^codecov\.yml$
 \.clang-format
+^\.vscode$
 ^Makefile$
 ^docs/_pkgdown\.yml$
 ^_targets*$
@@ -42,6 +44,7 @@
 ^output$
 ^protocol$
 ^review$
+^scripts$
 ^thesis$
 ^data-raw$
 ^inst/extdata$

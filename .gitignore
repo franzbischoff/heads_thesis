@@ -47,6 +47,9 @@ vignettes/*.R
 
 # Personalized
 
+#Local history plugin
+.history
+
 # use github-actions to build the webpage
 /pkgdown/
 /code/
@@ -82,3 +85,7 @@ analysis/*png
 analysis/*html
 analysis/*_cache
 analysis/site_libs
+output/*.svg
+protocol/**/*.pdf
+docs/**/*.svg
+protocol/**/*.svg
